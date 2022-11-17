@@ -1,6 +1,6 @@
 ## Classification-Efficacy
 #### source: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9551959
-##### Cross-posted on FUSE lab
+##### *Cross-posted on FUSE Lab*
 
 #### Data description:
 Yref = True or reference data\
