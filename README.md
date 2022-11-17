@@ -2,7 +2,7 @@
 #### source: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9551959
 ##### Cross-posted on FUSE lab
 
-##### Data description
+#### Data description:
 Yref = True or reference data\
 Ypred = Predictions from model
 
