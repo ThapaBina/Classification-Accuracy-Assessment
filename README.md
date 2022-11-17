@@ -1,13 +1,15 @@
-# Classification-Efficacy
-### source: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9551959
-
+## Classification-Efficacy
+#### source: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9551959
 ##### Cross-posted on FUSE lab
-##### Code Examples 
 
+##### Data description
+Yref = True or reference data\
+Ypred = Predictions from model
+
+##### Code Examples:
 ###### Example 1:
 `Yref = c("maple","maple","maple","oak","oak","pine","pine","pine","ash","ash","ash")`\
 `Ypred = c("maple","maple","maple","oak","oak","pine","pine","pine","ash","ash","maple")`\
-
 `EfficacyCalc(Yref = Yref, Ypred = Ypred)`
 
 ######  Example 2: 
